@@ -7,3 +7,6 @@
 [submodule "dive"]
 	path = dive
 	url = https://github.com/Simeon340703/dive
+[submodule "tator"]
+	path = tator
+	url = https://github.com/cvisionai/tator
