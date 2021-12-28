@@ -10,3 +10,6 @@
 [submodule "tator"]
 	path = tator
 	url = https://github.com/cvisionai/tator
+[submodule "awesome-data-labeling"]
+	path = awesome-data-labeling
+	url = https://github.com/heartexlabs/awesome-data-labeling
