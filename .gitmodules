@@ -4,3 +4,6 @@
 [submodule "Data_preprocessing"]
 	path = Data_preprocessing
 	url = https://github.com/Laudarisd/Data_preprocessing
+[submodule "dive"]
+	path = dive
+	url = https://github.com/Simeon340703/dive
