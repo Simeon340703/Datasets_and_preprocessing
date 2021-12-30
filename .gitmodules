@@ -13,3 +13,6 @@
 [submodule "awesome-data-labeling"]
 	path = awesome-data-labeling
 	url = https://github.com/heartexlabs/awesome-data-labeling
+[submodule "labelImg"]
+	path = labelImg
+	url = https://github.com/tzutalin/labelImg
