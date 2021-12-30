@@ -16,3 +16,6 @@
 [submodule "labelImg"]
 	path = labelImg
 	url = https://github.com/tzutalin/labelImg
+[submodule "pytorch-custom-dataset-examples"]
+	path = pytorch-custom-dataset-examples
+	url = https://github.com/utkuozbulak/pytorch-custom-dataset-examples
